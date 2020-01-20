@@ -232,7 +232,7 @@ But what if we wanted to to display this `favoriteFoods` array data in a `<ul>` 
 
 &#x1F535; **YOU DO: 5 minutes**
 
-Read through the Handlebars built in [helpers documentation](http://handlebarsjs.com/builtin_helpers.html). Try to render the Array of foods as a `<ul>` with `<li>` tags like so:
+Try to render the Array of foods as a `<ul>` with `<li>` tags like so:
 
 <br />
 
@@ -260,7 +260,6 @@ In `favorite-foods.hbs`, replace your `<p>` tags with the following:
 2. `{{this}}` is the iterator for each item in the array so we surround it with `<li>` tags
 3. We close our loop with `{{/each}}`
 
-You can check out more at this link for [Handlebars Built In Helpers](http://handlebarsjs.com/builtin_helpers.html)
 
 </details>
 
