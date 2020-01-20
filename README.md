@@ -307,7 +307,7 @@ For lab time you are going to create a new Express app from scratch that will re
 1. Create a new Express App. Here are a few steps to get you started. In your ga folder
 
 ```bash
-$ cd ~/Desktop/ga/class-exercises
+$ cd ~/Labs
 $ mkdir shows_app
 $ cd shows_app
 $ npm init
